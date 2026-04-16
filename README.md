@@ -1,7 +1,5 @@
 # COSMOUS 🌌
 
-Bem-vindo ao repositório Front-end do **COSMOUS**! 
-
 O objetivo do COSMOUS é transformar a sua produtividade em uma experiência literal de construção de universos. Através desse software focado na gamificação da concentração, cada momento de trabalho e foco permite a criação e descoberta de novos planetas, novas estrelas e a modelagem do seu próprio universo gerado de forma autônoma.
 
 ## Demonstração Visual
